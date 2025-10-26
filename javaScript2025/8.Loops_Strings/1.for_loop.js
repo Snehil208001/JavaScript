@@ -4,6 +4,10 @@ LOOPS IMPORTANT FOR REACT NATIVE
 =========================
 */
 
+let n = 20
+
+let Snehil = "Hello World"
+
 // 1. for loop
 let nums = [1, 2, 3, 4];
 for (let i = 0; i < nums.length; i++) {
